@@ -1,0 +1,802 @@
+{
+    "150720871": {
+        "id": 150720871,
+        "brand": "Apple",
+        "name": "iPhone 14 256GB",
+        "price": 82991.0,
+        "rating": 5,
+        "colors": "фиолетовый"
+    },
+    "150720814": {
+        "id": 150720814,
+        "brand": "Apple",
+        "name": "iPhone 14 256GB",
+        "price": 82991.0,
+        "rating": 5,
+        "colors": "белый"
+    },
+    "150720643": {
+        "id": 150720643,
+        "brand": "Apple",
+        "name": "iPhone 14 256GB",
+        "price": 82991.0,
+        "rating": 5,
+        "colors": "черный"
+    },
+    "150721124": {
+        "id": 150721124,
+        "brand": "Apple",
+        "name": "iPhone 14 256GB",
+        "price": 82991.0,
+        "rating": 5,
+        "colors": "голубой"
+    },
+    "149431077": {
+        "id": 149431077,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 256GB",
+        "price": 121592.0,
+        "rating": 4.4,
+        "colors": "фиолетовый"
+    },
+    "99910098": {
+        "id": 99910098,
+        "brand": "Apple",
+        "name": "iPad mini 6 Wi-Fi 64GB (США)",
+        "price": 40193.0,
+        "rating": 4.7,
+        "colors": "белый"
+    },
+    "155769149": {
+        "id": 155769149,
+        "brand": "Apple",
+        "name": "iPhone 14 128GB",
+        "price": 73791.0,
+        "rating": 5,
+        "colors": "черный"
+    },
+    "150790649": {
+        "id": 150790649,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 256GB",
+        "price": 110491.0,
+        "rating": 4.8,
+        "colors": "серый"
+    },
+    "151673184": {
+        "id": 151673184,
+        "brand": "Apple",
+        "name": "iPhone 11 128GB",
+        "price": 49191.0,
+        "rating": 5,
+        "colors": "белый"
+    },
+    "105027633": {
+        "id": 105027633,
+        "brand": "Apple",
+        "name": "iPad 10.2 Wi-Fi 64GB",
+        "price": 28594.0,
+        "rating": 5,
+        "colors": "серый"
+    },
+    "164593585": {
+        "id": 164593585,
+        "brand": "Apple",
+        "name": "iPad Air 10.9 Wi-Fi 64GB",
+        "price": 51792.0,
+        "rating": 5,
+        "colors": "белый"
+    },
+    "105026346": {
+        "id": 105026346,
+        "brand": "Apple",
+        "name": "iPad 10.2 Wi-Fi 64GB",
+        "price": 28594.0,
+        "rating": 5,
+        "colors": "серый"
+    },
+    "149430896": {
+        "id": 149430896,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 256GB",
+        "price": 121592.0,
+        "rating": 4.4,
+        "colors": "серый"
+    },
+    "150790772": {
+        "id": 150790772,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 256GB",
+        "price": 110491.0,
+        "rating": 4.8,
+        "colors": "желтый"
+    },
+    "160651824": {
+        "id": 160651824,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 256Gb",
+        "price": 114391.0,
+        "rating": 5,
+        "colors": "фиолетовый"
+    },
+    "138981754": {
+        "id": 138981754,
+        "brand": "Apple",
+        "name": "iPhone 12 128GB",
+        "price": 65511.0,
+        "rating": 4.7,
+        "colors": "зеленый"
+    },
+    "137755845": {
+        "id": 137755845,
+        "brand": "Apple",
+        "name": "iPad Air 10.9 Wi-Fi + Cellular 64GB",
+        "price": 60893.0,
+        "rating": 4.9,
+        "colors": "серый"
+    },
+    "155769349": {
+        "id": 155769349,
+        "brand": "Apple",
+        "name": "iPhone 14 128GB",
+        "price": 73791.0,
+        "rating": 5,
+        "colors": "белый"
+    },
+    "149429839": {
+        "id": 149429839,
+        "brand": "Apple",
+        "name": "iPad 10.9 Wi-Fi 256GB",
+        "price": 56992.0,
+        "rating": 5,
+        "colors": "голубой"
+    },
+    "162384583": {
+        "id": 162384583,
+        "brand": "Apple",
+        "name": "iPhone 12 mini 256GB",
+        "price": 51451.0,
+        "rating": 5,
+        "colors": "красный"
+    },
+    "138981585": {
+        "id": 138981585,
+        "brand": "Apple",
+        "name": "iPhone 12 128GB",
+        "price": 61612.0,
+        "rating": 4.7,
+        "colors": "синий"
+    },
+    "160652094": {
+        "id": 160652094,
+        "brand": "Apple",
+        "name": "iPhone 14 128Gb",
+        "price": 75591.0,
+        "rating": 0,
+        "colors": "белый"
+    },
+    "152785177": {
+        "id": 152785177,
+        "brand": "Apple",
+        "name": "iPhone 13 256GB",
+        "price": 78011.0,
+        "rating": 5,
+        "colors": "белый"
+    },
+    "159511753": {
+        "id": 159511753,
+        "brand": "Apple",
+        "name": "iPad 10.2 Wi-Fi 256GB",
+        "price": 41884.0,
+        "rating": 4.5,
+        "colors": "серый"
+    },
+    "162543484": {
+        "id": 162543484,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 512GB",
+        "price": 145791.0,
+        "rating": 5,
+        "colors": "фиолетовый"
+    },
+    "138249177": {
+        "id": 138249177,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 1TБ",
+        "price": 139311.0,
+        "rating": 5,
+        "colors": "серый"
+    },
+    "155758387": {
+        "id": 155758387,
+        "brand": "Apple",
+        "name": "iPad Pro 11 Wi-Fi + Cellular 1TB",
+        "price": 130122.0,
+        "rating": 5,
+        "colors": "серый"
+    },
+    "144807387": {
+        "id": 144807387,
+        "brand": "Apple",
+        "name": "iPhone 14 128GB",
+        "price": 75591.0,
+        "rating": 4.5,
+        "colors": "голубой"
+    },
+    "155772132": {
+        "id": 155772132,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 128GB",
+        "price": 110393.0,
+        "rating": 5,
+        "colors": "серый"
+    },
+    "106892770": {
+        "id": 106892770,
+        "brand": "Apple",
+        "name": "iPhone 13 Pro 128GB",
+        "price": 95571.0,
+        "rating": 5,
+        "colors": "голубой"
+    },
+    "149429497": {
+        "id": 149429497,
+        "brand": "Apple",
+        "name": "iPad 10.9 Wi-Fi 256GB",
+        "price": 58492.0,
+        "rating": 5,
+        "colors": "серый"
+    },
+    "166432056": {
+        "id": 166432056,
+        "brand": "Apple",
+        "name": "iPhone 11 64GB",
+        "price": 43191.0,
+        "rating": 0,
+        "colors": "белый"
+    },
+    "138982360": {
+        "id": 138982360,
+        "brand": "Apple",
+        "name": "iPhone 12 64GB",
+        "price": 55751.0,
+        "rating": 4.5,
+        "colors": "черный"
+    },
+    "155772641": {
+        "id": 155772641,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 128GB",
+        "price": 110393.0,
+        "rating": 5,
+        "colors": "фиолетовый"
+    },
+    "141108847": {
+        "id": 141108847,
+        "brand": "Apple",
+        "name": "iPad 10.9 Wi-Fi + Cellular 64GB",
+        "price": 49762.0,
+        "rating": 4.8,
+        "colors": "серый"
+    },
+    "113248587": {
+        "id": 113248587,
+        "brand": "Apple",
+        "name": "iPad Air 10.9 Wi-Fi 64GB (СНГ)",
+        "price": 53994.0,
+        "rating": 5,
+        "colors": "синий"
+    },
+    "153472943": {
+        "id": 153472943,
+        "brand": "Apple",
+        "name": "iPhone 13 256GB",
+        "price": 74252.0,
+        "rating": 0,
+        "colors": "синий"
+    },
+    "164595464": {
+        "id": 164595464,
+        "brand": "Apple",
+        "name": "iPhone 14 128GB",
+        "price": 72891.0,
+        "rating": 0,
+        "colors": "белый"
+    },
+    "166432005": {
+        "id": 166432005,
+        "brand": "Apple",
+        "name": "iPhone 11 64GB",
+        "price": 43191.0,
+        "rating": 0,
+        "colors": "черный"
+    },
+    "141293649": {
+        "id": 141293649,
+        "brand": "Apple",
+        "name": "iPhone 13 Pro Max 1TB",
+        "price": 123192.0,
+        "rating": 0,
+        "colors": "зеленый"
+    },
+    "153418688": {
+        "id": 153418688,
+        "brand": "Apple",
+        "name": "iPad Pro 11 Wi-Fi 2TB",
+        "price": 94792.0,
+        "rating": 4.3,
+        "colors": "серый"
+    },
+    "155772001": {
+        "id": 155772001,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 128GB",
+        "price": 110393.0,
+        "rating": 5,
+        "colors": "черный"
+    },
+    "152683266": {
+        "id": 152683266,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 128GB",
+        "price": 100791.0,
+        "rating": 0,
+        "colors": "черный"
+    },
+    "153423634": {
+        "id": 153423634,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 512GB",
+        "price": 127491.0,
+        "rating": 4.7,
+        "colors": "желтый"
+    },
+    "138979237": {
+        "id": 138979237,
+        "brand": "Apple",
+        "name": "iPhone 12 128GB",
+        "price": 64731.0,
+        "rating": 4.7,
+        "colors": "черный"
+    },
+    "113244898": {
+        "id": 113244898,
+        "brand": "Apple",
+        "name": "iPhone SE 64GB (СНГ)",
+        "price": 33572.0,
+        "rating": 4.5,
+        "colors": "черный"
+    },
+    "155771489": {
+        "id": 155771489,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 128GB",
+        "price": 100431.0,
+        "rating": 0,
+        "colors": "фиолетовый"
+    },
+    "162410309": {
+        "id": 162410309,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 128GB",
+        "price": 105591.0,
+        "rating": 0,
+        "colors": "фиолетовый"
+    },
+    "160651823": {
+        "id": 160651823,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 256Gb",
+        "price": 114391.0,
+        "rating": 5,
+        "colors": "желтый"
+    },
+    "152785904": {
+        "id": 152785904,
+        "brand": "Apple",
+        "name": "iPhone 13 256GB",
+        "price": 78011.0,
+        "rating": 5,
+        "colors": "розовый"
+    },
+    "151580279": {
+        "id": 151580279,
+        "brand": "Apple",
+        "name": "iPhone 13 256GB",
+        "price": 75192.0,
+        "rating": 5,
+        "colors": "черный"
+    },
+    "162411856": {
+        "id": 162411856,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 128GB",
+        "price": 115492.0,
+        "rating": 0,
+        "colors": "фиолетовый"
+    },
+    "149423538": {
+        "id": 149423538,
+        "brand": "Apple",
+        "name": "iPad 10.9 Wi-Fi 64GB",
+        "price": 43731.0,
+        "rating": 4.7,
+        "colors": "голубой"
+    },
+    "155770581": {
+        "id": 155770581,
+        "brand": "Apple",
+        "name": "iPhone 14 128GB",
+        "price": 73791.0,
+        "rating": 5,
+        "colors": "голубой"
+    },
+    "111244816": {
+        "id": 111244816,
+        "brand": "Apple",
+        "name": "iPhone 13 128GB (СНГ)",
+        "price": 79990.0,
+        "rating": 4.7,
+        "colors": "черный"
+    },
+    "162409164": {
+        "id": 162409164,
+        "brand": "Apple",
+        "name": "iPhone 14 256GB",
+        "price": 86991.0,
+        "rating": 0,
+        "colors": "голубой"
+    },
+    "153418451": {
+        "id": 153418451,
+        "brand": "Apple",
+        "name": "iPad Pro 11 Wi-Fi 2TB",
+        "price": 94792.0,
+        "rating": 4.3,
+        "colors": "серый"
+    },
+    "160651822": {
+        "id": 160651822,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 256Gb",
+        "price": 114391.0,
+        "rating": 5,
+        "colors": "серый"
+    },
+    "114447581": {
+        "id": 114447581,
+        "brand": "Apple",
+        "name": "iPhone 13 Pro 1TB (СНГ)",
+        "price": 116992.0,
+        "rating": 4.5,
+        "colors": "серый"
+    },
+    "152705955": {
+        "id": 152705955,
+        "brand": "Apple",
+        "name": "iPhone 13 mini 256GB",
+        "price": 71991.0,
+        "rating": 0,
+        "colors": "белый"
+    },
+    "152685996": {
+        "id": 152685996,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 256GB",
+        "price": 121592.0,
+        "rating": 0,
+        "colors": "черный"
+    },
+    "150790065": {
+        "id": 150790065,
+        "brand": "Apple",
+        "name": "iPhone 14 Plus 128GB",
+        "price": 85792.0,
+        "rating": 5,
+        "colors": "белый"
+    },
+    "150789859": {
+        "id": 150789859,
+        "brand": "Apple",
+        "name": "iPhone 14 Plus 128GB",
+        "price": 85792.0,
+        "rating": 5,
+        "colors": "черный"
+    },
+    "102728297": {
+        "id": 102728297,
+        "brand": "Apple",
+        "name": "Смартфон iPhone 14 Pro 256 GB",
+        "price": 127491.0,
+        "rating": 4.6,
+        "colors": "фиолетовый"
+    },
+    "149260473": {
+        "id": 149260473,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 256GB",
+        "price": 110491.0,
+        "rating": 0,
+        "colors": "черный"
+    },
+    "73723619": {
+        "id": 73723619,
+        "brand": "Apple",
+        "name": "Смартфон iPhone Xs Max 64GB как новый",
+        "price": 51190.0,
+        "rating": 4.6,
+        "colors": "серый"
+    },
+    "166073832": {
+        "id": 166073832,
+        "brand": "Apple",
+        "name": "iPhone 14 128GB",
+        "price": 73791.0,
+        "rating": 4,
+        "colors": "фиолетовый"
+    },
+    "154822649": {
+        "id": 154822649,
+        "brand": "Apple",
+        "name": "iPhone 12 64GB",
+        "price": 54392.0,
+        "rating": 5,
+        "colors": "синий"
+    },
+    "152786538": {
+        "id": 152786538,
+        "brand": "Apple",
+        "name": "iPhone 14 Plus 128GB",
+        "price": 85792.0,
+        "rating": 5,
+        "colors": "красный"
+    },
+    "150790230": {
+        "id": 150790230,
+        "brand": "Apple",
+        "name": "iPhone 14 Plus 128GB",
+        "price": 85792.0,
+        "rating": 5,
+        "colors": "голубой"
+    },
+    "155194937": {
+        "id": 155194937,
+        "brand": "Apple",
+        "name": "iPhone 14 128GB",
+        "price": 73791.0,
+        "rating": 0,
+        "colors": "белый"
+    },
+    "162409861": {
+        "id": 162409861,
+        "brand": "Apple",
+        "name": "iPhone 14 Plus 256GB",
+        "price": 94232.0,
+        "rating": 0,
+        "colors": "фиолетовый"
+    },
+    "162384356": {
+        "id": 162384356,
+        "brand": "Apple",
+        "name": "iPhone 12 mini 256GB",
+        "price": 51451.0,
+        "rating": 1,
+        "colors": "красный"
+    },
+    "141398371": {
+        "id": 141398371,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 128GB",
+        "price": 105591.0,
+        "rating": 4.5,
+        "colors": "черный"
+    },
+    "160652095": {
+        "id": 160652095,
+        "brand": "Apple",
+        "name": "iPhone 14 128Gb",
+        "price": 75591.0,
+        "rating": 0,
+        "colors": "голубой"
+    },
+    "117274992": {
+        "id": 117274992,
+        "brand": "Apple",
+        "name": "iPhone SE 128GB (СНГ)",
+        "price": 40991.0,
+        "rating": 4.2,
+        "colors": "красный"
+    },
+    "154873866": {
+        "id": 154873866,
+        "brand": "Apple",
+        "name": "iPhone 14 Plus 128GB",
+        "price": 81392.0,
+        "rating": 0,
+        "colors": "черный"
+    },
+    "154874985": {
+        "id": 154874985,
+        "brand": "Apple",
+        "name": "iPhone 14 Plus 128GB",
+        "price": 81392.0,
+        "rating": 0,
+        "colors": "белый"
+    },
+    "160652093": {
+        "id": 160652093,
+        "brand": "Apple",
+        "name": "iPhone 14 128Gb",
+        "price": 75591.0,
+        "rating": 0,
+        "colors": "черный"
+    },
+    "138982571": {
+        "id": 138982571,
+        "brand": "Apple",
+        "name": "iPhone 12 64GB",
+        "price": 55751.0,
+        "rating": 4.5,
+        "colors": "синий"
+    },
+    "155772236": {
+        "id": 155772236,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 128GB",
+        "price": 110393.0,
+        "rating": 5,
+        "colors": "желтый"
+    },
+    "154872086": {
+        "id": 154872086,
+        "brand": "Apple",
+        "name": "iPhone 14 128GB",
+        "price": 73791.0,
+        "rating": 0,
+        "colors": "голубой"
+    },
+    "155736200": {
+        "id": 155736200,
+        "brand": "Apple",
+        "name": "iPad 10.2 Wi-Fi 64GB",
+        "price": 28594.0,
+        "rating": 5,
+        "colors": "серый"
+    },
+    "166424789": {
+        "id": 166424789,
+        "brand": "Apple",
+        "name": "iPhone 14 128GB",
+        "price": 73791.0,
+        "rating": 5,
+        "colors": "красный"
+    },
+    "139760619": {
+        "id": 139760619,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 1TB",
+        "price": 157992.0,
+        "rating": 4.3,
+        "colors": "серый"
+    },
+    "117274989": {
+        "id": 117274989,
+        "brand": "Apple",
+        "name": "iPhone 13 Pro 1TB (СНГ)",
+        "price": 116992.0,
+        "rating": 4.5,
+        "colors": "зеленый"
+    },
+    "113248586": {
+        "id": 113248586,
+        "brand": "Apple",
+        "name": "iPad 10.2 Wi-Fi 64GB (СНГ)",
+        "price": 29144.0,
+        "rating": 4.5,
+        "colors": "серый"
+    },
+    "144779234": {
+        "id": 144779234,
+        "brand": "Apple",
+        "name": "iPad 10.2 Wi-Fi 256GB (США)",
+        "price": 42594.0,
+        "rating": 0,
+        "colors": "серый"
+    },
+    "73723473": {
+        "id": 73723473,
+        "brand": "Apple",
+        "name": "Смартфон iPhone Xs Max 256GB как новый",
+        "price": 54790.0,
+        "rating": 5,
+        "colors": "серый"
+    },
+    "162408463": {
+        "id": 162408463,
+        "brand": "Apple",
+        "name": "iPhone 13 256GB",
+        "price": 80831.0,
+        "rating": 0,
+        "colors": "красный"
+    },
+    "119973991": {
+        "id": 119973991,
+        "brand": "Apple",
+        "name": "Смартфон iPhone 13 Pro Max 256GB",
+        "price": 112290.0,
+        "rating": 4,
+        "colors": "желтый"
+    },
+    "157875860": {
+        "id": 157875860,
+        "brand": "Apple",
+        "name": "iPhone 11 128GB",
+        "price": 51140.0,
+        "rating": 0,
+        "colors": "красный"
+    },
+    "141010404": {
+        "id": 141010404,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro 128GB",
+        "price": 98391.0,
+        "rating": 3.7,
+        "colors": "фиолетовый"
+    },
+    "162408686": {
+        "id": 162408686,
+        "brand": "Apple",
+        "name": "iPhone 13 256GB",
+        "price": 80831.0,
+        "rating": 0,
+        "colors": "синий"
+    },
+    "162409617": {
+        "id": 162409617,
+        "brand": "Apple",
+        "name": "iPhone 14 Plus 256GB",
+        "price": 95472.0,
+        "rating": 0,
+        "colors": "белый"
+    },
+    "155193544": {
+        "id": 155193544,
+        "brand": "Apple",
+        "name": "iPhone 14 256GB",
+        "price": 84991.0,
+        "rating": 0,
+        "colors": "белый"
+    },
+    "155772988": {
+        "id": 155772988,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 1TB",
+        "price": 163991.0,
+        "rating": 0,
+        "colors": "желтый"
+    },
+    "155772826": {
+        "id": 155772826,
+        "brand": "Apple",
+        "name": "iPhone 14 Pro Max 1TB",
+        "price": 163991.0,
+        "rating": 0,
+        "colors": "черный"
+    },
+    "154821567": {
+        "id": 154821567,
+        "brand": "Apple",
+        "name": "iPhone 12 64GB",
+        "price": 55071.0,
+        "rating": 5,
+        "colors": "черный"
+    },
+    "114447576": {
+        "id": 114447576,
+        "brand": "Apple",
+        "name": "iPhone 13 Pro Max 1TB (СНГ)",
+        "price": 124792.0,
+        "rating": 3.9,
+        "colors": "зеленый"
+    }
+}
